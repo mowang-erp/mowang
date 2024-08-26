@@ -1,0 +1,14 @@
+target
+.idea/
+.gradle/
+.settings/
+.project
+*.factorypath
+.factorypath
+.apt_generated
+.apt_generated_tests
+*.classpath
+*.iml
+.idea
+*/target
+.idea/httpRequests

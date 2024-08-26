@@ -1,0 +1,10 @@
+app:
+  awss3:
+    bucketName: 'file.example.com'
+    accessKey: 'IAM ACCESS KEY'
+    secretKey: 'IAM SECRET_KEY'
+    region: 'us-west-2'
+    domainName: 'file.example.com'
+    keyPairId: 'KAxxxxxxx'
+    privateKeyPath: 'src/test/resources/private_key.pem'
+spring:
